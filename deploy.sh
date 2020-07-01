@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 # update correct user-name and repo-name and uncomment line below
-# git push -f git@github.com:<user-name>/<your-repo-name>.git master:gh-pages
+git push -f git@github.com:wesbubeck/perf-serf-internal-web-app.git master:gh-pages
 
 cd -
